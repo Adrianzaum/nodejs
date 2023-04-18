@@ -1,0 +1,16 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "meu primeiro aplicativo nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adrianjs",
+  "license": "ISC",
+  "dependencies": {
+    "formidable": "^2.1.1",
+    "nodemon": "^2.0.22",
+    "upper-case": "^2.0.2"
+  }
+}
